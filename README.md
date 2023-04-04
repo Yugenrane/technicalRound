@@ -1,4 +1,10 @@
 # technicalRound
+TECHNOLOGIES USED:-
+  Front-end :- HTML, CSS, Bootstrap.
+   Backend  :- JAVA, Servlet.
+   Database :- MySQL.
+
+
 Mobile Shop :-
   First I design the Home page using HTML, CSS and bootstrap.
   In nav bar I insert Home, About us, Login, Products, Contact us.
